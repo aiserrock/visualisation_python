@@ -10,27 +10,27 @@ def main():
     # 1
     total_duration_of_content(df_paid)
     # 2
-    # total_number_of_lectures_for_every_theme(df_paid)
+    total_number_of_lectures_for_every_theme(df_paid)
     # 3
-    # price_changes_depending_on_publishdate(df_paid)
+    price_changes_depending_on_publishdate(df_paid)
     # 4
-    # avg_price_every_level(df_paid)
+    avg_price_every_level(df_paid)
     # 5
-    # avg_price_every_subject(df_paid)
+    avg_price_every_subject(df_paid)
     # 6
-    # changing_price_depending_on_subscribers(df_paid)
+    changing_price_depending_on_subscribers(df_paid)
     # 7
-    # the_cheapest_courses(df_paid)
+    the_cheapest_courses(df_paid)
     # 8
-    # most_popular_courses_by_subscribers(df_paid)
+    most_popular_courses_by_subscribers(df_paid)
     # 9
-    # the_shortest_courses_by_content_duration(df_paid)
+    the_shortest_courses_by_content_duration(df_paid)
     # 10
-    # the_shortest_courses_by_num_lectures(df_paid)
+    the_shortest_courses_by_num_lectures(df_paid)
     # 11
-    # the_most_popular_courses_from_every_theme_by_subscribers(df_paid)
+    the_most_popular_courses_from_every_theme_by_subscribers(df_paid)
     # 12
-    # num_subscribers_for_each_level(df_paid, df_free)
+    num_subscribers_for_each_level(df_paid, df_free)
 
 
 # 1) суммарная продолжительность контента для каждой темы
